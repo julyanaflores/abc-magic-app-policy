@@ -1,1 +1,0 @@
-# abc-magic-app-policy
